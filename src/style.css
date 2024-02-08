@@ -19,3 +19,7 @@ footer a {
   display: inline-block;
   margin: 0 10px;
 }
+
+img {
+  border-radius: 6px;
+}
